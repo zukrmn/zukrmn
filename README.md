@@ -8,7 +8,7 @@
 <summary><strong>🇺🇸 English Version</strong></summary>
 
 ## About
-I am a software engineer and entrepreneur with a rigorous background in complex sales. I operate at the intersection of technology and business, ensuring that technical architecture directly supports revenue goals and market fit.
+I am a software engineer and entrepreneur with a extended background in complex sales. I operate at the intersection of technology and business, ensuring that technical architecture directly supports revenue goals and market fit.
 
 Currently, I am building **Blocky**, a next-generation exchange and stablecoin issuer, where I lead both the technical development and go-to-market strategies. My experience ranges from architecting secure financial systems to managing commercial teams and optimizing key performance indicators (KPIs) like CAC and LTV.
 
