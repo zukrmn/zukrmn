@@ -22,7 +22,7 @@ Currently, I am building **Blocky**, a next-generation exchange and stablecoin i
 ## Contact
 
 *   **Email:** bernardo@blocky.com.br
-*   **LinkedIn:** [linkedin.com/in/obernardoandrade](https://www.linkedin.com/in/obernardoandrade/)
+*   **LinkedIn:** [linkedin.com/in/bernardo-blocky](https://www.linkedin.com/in/bernardo-blocky/)
 *   **Website:** [blocky.com.br](https://blocky.com.br)
 
 </details>
@@ -45,7 +45,7 @@ Atualmente, estou construindo a **Blocky**, uma exchange e emissora de stablecoi
 ## Contato
 
 *   **Email:** bernardo@blocky.com.br
-*   **LinkedIn:** [linkedin.com/in/obernardoandrade](https://www.linkedin.com/in/obernardoandrade/)
+*   **LinkedIn:** [linkedin.com/in/bernardo-blocky](https://www.linkedin.com/in/bernardo-blocky/)
 *   **Website:** [blocky.com.br](https://blocky.com.br)
 
 </details>
