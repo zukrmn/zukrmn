@@ -1,6 +1,6 @@
-# Bernardo Andrade
+# Bernardo
 
-**Co-Founder @ Blocky | Full Stack Developer**
+**Software Engineer | Full Stack Developer**
 
 ---
 
@@ -8,21 +8,22 @@
 <summary><strong>🇺🇸 English Version</strong></summary>
 
 ## About
-I am a software engineer and entrepreneur with a extended background in complex sales. I operate at the intersection of technology and business, ensuring that technical architecture directly supports revenue goals and market fit.
+I am a full stack developer with over 4 years of experience in C++, Node.js, JavaScript, and system architecture. My expertise lies in protocol design (Nano/Block-Lattice), financial API integration, and stablecoins. I hold a strong background in web development, process optimization, and technical leadership.
 
-Currently, I am building **Blocky**, a next-generation exchange and stablecoin issuer, where I lead both the technical development and go-to-market strategies. My experience ranges from architecting secure financial systems to managing commercial teams and optimizing key performance indicators (KPIs) like CAC and LTV.
+Currently, I work as a Software Engineer at **Blocky**, focusing on protocol engineering in C++, bank integration for reserve custody with 1:1 backing, and the development of sovereign zero-fee stablecoins. My experience also includes building comprehensive full stack management platforms and developing internal tools for sales operations and process automation.
 
 ## Technical Stack
 
-*   **Languages:** Java, Python, JavaScript (ES6+)
-*   **Runtime & Frameworks:** Node.js, Express, HTML5, CSS3
+*   **Languages:** C++, Python, Java, JavaScript, TypeScript
+*   **Runtime & Frameworks:** Node.js, Express.js, Svelte 5, HTML5, CSS3
 *   **Database:** SQLite, SQL
-*   **Tools & Platforms:** Git, Linux
+*   **Infra & Tools:** Linux, Windows Server, Git, Docker
+*   **Niche Technologies:** Blockchain, DLT, Protocol Design (Nano/Block-Lattice), ORV Consensus, Financial APIs
 
 ## Contact
 
 *   **Email:** bernardo@blocky.com.br
-*   **LinkedIn:** [linkedin.com/in/bernardo-blocky](https://www.linkedin.com/in/bernardo-blocky/)
+*   **LinkedIn:** [linkedin.com/in/bernardo-se](https://linkedin.com/in/bernardo-se)
 *   **Website:** [blocky.com.br](https://blocky.com.br)
 
 </details>
@@ -31,21 +32,22 @@ Currently, I am building **Blocky**, a next-generation exchange and stablecoin i
 <summary><strong>🇧🇷 Versão em Português</strong></summary>
 
 ## Sobre
-Sou engenheiro de software e empreendedor com histórico sólido em vendas complexas. Atuo na interseção entre tecnologia e negócios, garantindo que a arquitetura técnica suporte diretamente as metas de receita e o posicionamento de mercado.
+Sou desenvolvedor full stack com mais de 4 anos de experiência em C++, Node.js, JavaScript e arquitetura de sistemas. Minha expertise abrange protocol design (Nano/Block-Lattice), integração de APIs financeiras e stablecoins. Tenho um histórico sólido em desenvolvimento web, otimização de processos e liderança técnica.
 
-Atualmente, estou construindo a **Blocky**, uma exchange e emissora de stablecoins de próxima geração, onde lidero tanto o desenvolvimento técnico quanto as estratégias de go-to-market. Minha experiência vai desde a arquitetura de sistemas financeiros seguros até a gestão de equipes comerciais e otimização de indicadores-chave (KPIs) como CAC e LTV.
+Atualmente, atuo como Engenheiro de Software na **Blocky**, onde meu trabalho foca em engenharia de protocolo em C++, integração bancária para custódia de reservas (backing 1:1) e desenvolvimento de stablecoins soberanas com taxa zero. Minha experiência inclui também a construção de plataformas completas de gestão (full stack) e o desenvolvimento de ferramentas internas para automação de processos comerciais.
 
 ## Tecnologias
 
-*   **Linguagens:** Java, Python, JavaScript (ES6+)
-*   **Runtime & Frameworks:** Node.js, Express, HTML5, CSS3
+*   **Linguagens:** C++, Python, Java, JavaScript, TypeScript
+*   **Runtime & Frameworks:** Node.js, Express.js, Svelte 5, HTML5, CSS3
 *   **Banco de Dados:** SQLite, SQL
-*   **Ferramentas:** Git, Linux
+*   **Infraestrutura & Ferramentas:** Linux, Windows Server, Git, Docker
+*   **Tecnologias de Nicho:** Blockchain, DLT, Protocol Design (Nano/Block-Lattice), Consenso ORV, APIs Financeiras
 
 ## Contato
 
 *   **Email:** bernardo@blocky.com.br
-*   **LinkedIn:** [linkedin.com/in/bernardo-blocky](https://www.linkedin.com/in/bernardo-blocky/)
+*   **LinkedIn:** [linkedin.com/in/bernardo-se](https://linkedin.com/in/bernardo-se)
 *   **Website:** [blocky.com.br](https://blocky.com.br)
 
 </details>
