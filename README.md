@@ -23,7 +23,6 @@ Currently, I work as a Software Engineer at **Blocky**, focusing on protocol eng
 ## Contact
 
 *   **Email:** bernardo@blocky.com.br
-*   **LinkedIn:** [linkedin.com/in/bernardo-se](https://linkedin.com/in/bernardo-se)
 *   **Website:** [blocky.com.br](https://blocky.com.br)
 
 </details>
@@ -47,7 +46,6 @@ Atualmente, atuo como Engenheiro de Software na **Blocky**, onde meu trabalho fo
 ## Contato
 
 *   **Email:** bernardo@blocky.com.br
-*   **LinkedIn:** [linkedin.com/in/bernardo-se](https://linkedin.com/in/bernardo-se)
 *   **Website:** [blocky.com.br](https://blocky.com.br)
 
 </details>
