@@ -5,7 +5,7 @@
 ---
 
 <details>
-<summary><strong>🇺🇸 English Version</strong></summary>
+<summary><strong>English Version</strong></summary>
 
 ## About
 I am a full stack developer with over 4 years of experience in C++, Node.js, JavaScript, and system architecture. My expertise lies in protocol design (Nano/Block-Lattice), financial API integration, and stablecoins. I hold a strong background in web development, process optimization, and technical leadership.
@@ -28,7 +28,7 @@ Currently, I work as a Software Engineer at **Blocky**, focusing on protocol eng
 </details>
 
 <details open>
-<summary><strong>🇧🇷 Versão em Português</strong></summary>
+<summary><strong>Versão em Português</strong></summary>
 
 ## Sobre
 Sou desenvolvedor full stack com mais de 4 anos de experiência em C++, Node.js, JavaScript e arquitetura de sistemas. Minha expertise abrange protocol design (Nano/Block-Lattice), integração de APIs financeiras e stablecoins. Tenho um histórico sólido em desenvolvimento web, otimização de processos e liderança técnica.
