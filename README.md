@@ -1,4 +1,4 @@
-# Bernardo
+# Bernardo Zukerman
 
 **Software Engineer | Full Stack Developer**
 
